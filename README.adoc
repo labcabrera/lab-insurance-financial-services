@@ -1,0 +1,7 @@
+= Financial services module - Open Asset Management System
+
+:linkLabInsurance: https://github.com/labcabrera/lab-insurance
+
+== Introducción
+
+Módulo de servicios financieros del proyecto {linkLabInsurance}[lab-insurance].
